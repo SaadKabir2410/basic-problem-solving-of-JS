@@ -1,0 +1,20 @@
+.ContainerOne{
+margin-top: 10px;
+}
+.ContainerOne button{
+    margin-left: 0px;
+}
+button{
+    padding: 5px 10px;
+    margin: 5px;
+}
+.AddCart { 
+    background-color: yellow;
+    font-weight: bold;
+    border: 3px solid black;
+}
+.BuyNow{
+    background-color: rgb(253, 171, 18);
+    border: 3px solid black;
+    font-weight: bold;
+}
